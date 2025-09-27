@@ -2,6 +2,7 @@
 Forest fire simulation in MATLAB
 
 Course: Computer Modeling and Simulations
+
 Project: Forest Fire Simulation
 
 A MATLAB simulation of forest fire spread using a 2D grid model. Each cell represents a tree that can be empty, alive, or burning. The simulation demonstrates stochastic modeling and cellular automata in environmental systems.
